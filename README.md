@@ -137,6 +137,5 @@ O programa deve realizar as operações descritas de seguida,
 * Deve garantir a correta gestão de memória dinâmica.
 
 ---
-
-s
+<bruno.silva@estsetubal.ips.pt> & <anibal.ponte@estsetubal.ips.pt>
 
